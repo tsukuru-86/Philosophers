@@ -1,0 +1,19 @@
+# Tester directory
+LazyPhilosophersTester/
+
+# Object files
+*.o
+
+# Executables
+philo
+a.out
+
+# Header precompiled
+*.gch
+
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
